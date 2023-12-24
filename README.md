@@ -1,10 +1,10 @@
-# Dashboard Titanic en Power BI
+# Dashboard del Titanic en Power BI
 
-Este repositorio contiene un informe interactivo de Power BI que analiza datos relacionados con el famoso naufragio del Titanic. El informe proporciona visualizaciones detalladas y análisis de diferentes aspectos, como la distribución de pasajeros, las tarifas pagadas, la supervivencia y más.
+Este repositorio alberga un informe interactivo de Power BI que examina datos relacionados con el famoso naufragio del Titanic. El informe ofrece visualizaciones detalladas y análisis sobre diversos aspectos, incluyendo la distribución de pasajeros, tarifas pagadas, supervivencia, entre otros.
 
-## Cómo Acceder al Informe
+## Acceso al Informe
 
-Puedes acceder al informe de Power BI a través del siguiente enlace:
+Para acceder al informe de Power BI, visita el siguiente enlace:
 [Dashboard Titanic - Power BI](https://github.com/LUXI4NO/Power-BI/blob/main/Dashboard%20Titanic.pbix)
 
 ## Contenido del Repositorio
@@ -20,6 +20,12 @@ Puedes acceder al informe de Power BI a través del siguiente enlace:
 
 ## Capturas de Pantalla
 
-![Dashboard Titanic](https://github.com/LUXI4NO/Power-BI/assets/140111840/55bcf1d7-139b-4df6-adc8-bca889facd44)
+![image](https://github.com/LUXI4NO/Power-BI/assets/140111840/d8bc8453-eaab-4982-b0d0-fd2eb76540cf)
+
+
+## Proyecto Completo
+
+Puedes explorar el proyecto completo aquí: [Proyecto Titanic en GitHub](https://github.com/LUXI4NO/Titanic)
 
 **Creado por Luciano Alvarez**
+
